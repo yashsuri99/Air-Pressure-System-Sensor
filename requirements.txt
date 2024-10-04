@@ -10,5 +10,7 @@ scipy
 imblearn
 certifi
 xgboost
+fastapi
+uvicorn
 
 -e .
